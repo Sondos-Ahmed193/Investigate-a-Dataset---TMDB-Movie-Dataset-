@@ -31,10 +31,12 @@ After Observing the dataset and the questions related to this dataset for the an
 
 
 ## Exploratory Data Analysis ##
->> Tip: Now that you've trimmed and cleaned your data, you're ready to move on to exploration. Compute statistics and create visualizations with the goal of addressing the research questions that you posed in the Introduction section. It is recommended that you be systematic with your approach. Look at one variable at a time, and then follow it up by looking at relationships between variables.
+> Tip: Now that you've trimmed and cleaned your data, you're ready to move on to exploration. Compute statistics and create visualizations with the goal of addressing the research questions that you posed in the Introduction section. It is recommended that you be systematic with your approach. Look at one variable at a time, and then follow it up by looking at relationships between variables.
 
-### Question 1: ### What features are associated with the most popularity movies?
-### Question 2: ### What are the properties which effect on increased revenue?
+### Question 1: ###
+What features are associated with the most popularity movies?
+### Question 2: ###
+What are the properties which effect on increased revenue?
 
 
 Basically, I analysis  for  only two questions in the future I will add more research questions.
