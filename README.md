@@ -1,6 +1,6 @@
 # Investigate a Dataset (TMDB Movie Dataset) #
 ## Overview ##
-The primary goal of the project is to go through the dataset and the general data analysis process using numpy, pandas and matplotlib.This contain four parts:
+The primary goal of the project is to go through the dataset and the general data analysis process using numpy, pandas and matplotlib.
 
 ## Table of Contents ##
 * Introduction
